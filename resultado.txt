@@ -1,0 +1,12 @@
+Selección aleatoria (semilla: 20250610):
+1. Sorte O Soro ’22
+2. Pago de Valtarreña ’20
+3. Ausàs Interpretación ’22
+4. Pujanza Cisma ’20
+5. Pingus ’22
+6. Abadía de San Quirce Finca Helena ’22
+7. Do Ferreiro Cepas Vellas ’23
+8. Gaudium ’20
+
+Hash SHA-256:
+384df7fcf916fb38d16e4e0e9c1ab7986fcb23b32a83d94ff65a42348cdc0d9d
